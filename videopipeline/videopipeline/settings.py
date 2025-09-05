@@ -126,3 +126,5 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+ZAPIER_WEBHOOK_URL="https://hooks.zapier.com/hooks/catch/24346956/ud6jruh/"
